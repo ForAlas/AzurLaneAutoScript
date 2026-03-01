@@ -766,6 +766,7 @@
       "event_20250912_cn": "A Dance for Amahara Above",
       "event_20251023_cn": "Tempesta and Islas de Libertád",
       "event_20251218_cn": "A Note Through the Firmament",
+      "event_20260226_cn": "Springtide Inn Online",
       "raid_20200624": "Air Raid Drills with Essex Rerun",
       "raid_20210708": "Cross Wave rerun",
       "raid_20220127": "Mystery Investigation",
@@ -1899,7 +1900,8 @@
       "help": "",
       "2": "DR2",
       "3": "DR3",
-      "4": "DR4"
+      "4": "DR4",
+      "5": "DR5"
     },
     "ShipIndex": {
       "name": "Ship Index",
@@ -1933,7 +1935,8 @@
       "2": "PR2",
       "3": "PR3",
       "4": "PR4",
-      "5": "PR5"
+      "5": "PR5",
+      "6": "PR6"
     },
     "ShipIndex": {
       "name": "Ship Index",
